@@ -3,7 +3,7 @@ The "YuZhi Harmony" project is based on the Open Harmony platform, implementing 
 Connecting the KHDVK-3568A development board equipped with the domestic open-source HarmonyOS to demonstrate.
 
 
-https://www.openharmony.cn/mainPlay
+www.openharmony.cn/mainPlay
 
 
 
