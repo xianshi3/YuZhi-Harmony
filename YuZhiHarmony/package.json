@@ -1,0 +1,13 @@
+{
+  "name": "myapplication",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@ohos/hypium": "1.0.6",
+    "@ohos.ai.intelligentVoice": "^1.0.0",
+    "@ohos.base": "^1.0.0"
+  }
+}
